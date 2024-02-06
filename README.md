@@ -2,10 +2,10 @@ API endpoints:
 
 /menu
 
-/menu/<pk>
+/menu/pk
 
 /booking
 
 /booking/tables
 
-/booking/tables/<pk>
+/booking/tables/pk
